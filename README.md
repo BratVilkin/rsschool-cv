@@ -1,2 +1,1 @@
-# rsschool-cv
-https://BratVilkin.github.io/rsschool-cv/cv
+https://BratVilkin.github.io/rsschool-cv/
